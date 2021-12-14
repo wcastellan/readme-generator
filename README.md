@@ -11,14 +11,17 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
 
+  ## Video
+  ![Readme generator demo](https://github.com/wcastellan/readme-generator/blob/main/video/video.mp4)
+
   ## Description:
   The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files, that use a consistant format.
 
   ## Installation:
-  *Download it through Github <br> *Ensure inquirer is installed
+  * Download it through Github <br> * Ensure inquirer is installed
 
   ## Usage:
-  *Open terminal <br> *Type 'node index.js' <br> *Answer the prompts that follow <br> *On success a README.md will be generated.
+  * Open terminal <br> * Type 'node index.js' <br> * Answer the prompts that follow <br> * On success a README.md will be generated.
 
   ## License:
   MIT
