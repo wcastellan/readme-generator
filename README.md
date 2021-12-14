@@ -1,4 +1,4 @@
-# Readme Generator
+# Professional Readme Generator
 
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-green)](https://shields.io)
@@ -12,13 +12,13 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  Using Node.js, create an automated Readme.md file
+  The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files, that use a consistant format.
 
   ## Installation:
-  Clone repository and be sure that you have Node.js installed on your computer.
+  *Download it through Github <br> *Ensure inquirer is installed
 
   ## Usage:
-  Open the index.js and type 'node index' in the terminal.  Answer the questions prompts and you will have your Readme file.
+  *Open terminal <br> *Type 'node index.js' <br> *Answer the prompts that follow <br> *On success a README.md will be generated.
 
   ## License:
   MIT
@@ -27,8 +27,8 @@
   Wyatt C.
 
   ## Testing:
-  This is a test.
+  This README.md is a test to highlight the capabilites of the README generator.
 
   ## Additional Info:
   - Github: [wcastellan](https://github.com/wcastellan)
-  - Email: wcastellan@email.com 
+  - Email: wcastellan@yahoo.com 
