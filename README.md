@@ -12,7 +12,7 @@
   - [Additional Info](#additional-info)
 
   ## Video
-  ![Readme generator demo](video/video.mp4)
+  ![Readme generator demo](video/video.gif)
 
   ## Description:
   The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files, that use a consistant format.
